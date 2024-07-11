@@ -1,4 +1,5 @@
-[][ Bee.js? (pollinates & populates with image & wishlistingly voice data ]
+[][ Bee.js? ]
+// open to name changes, just been saving JS-language considerations.
 
 proposed JS quirks:
 allPageArrays()                         prolly nevermind but maybe easier to start making new javascript methods by making the bad ones. 
