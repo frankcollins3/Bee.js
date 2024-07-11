@@ -67,3 +67,9 @@ Concept:
 
 A do-if loop, similar to useEffect but with specific conditional logic.
 This format presents your ideas clearly and concisely, highlighting the innovative aspects and providing examples for clarity. It should be attractive to developers looking for new patterns and tools to improve their projects. Sharing this on GitHub can invite collaboration and feedback from the community.
+
+
+do for() native 2d matrix arrays in JS:  (admittdly Promise.all()) kind of seems to be like this.
+do: condition
+for: block/condition-determined amount of arrays. 
+almost like Promise.all
