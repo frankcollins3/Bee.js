@@ -49,3 +49,11 @@ doWhile / useEffect seem like this but a do If() loop. nothing more specific pas
 do if([
         
 ])
+
+ // lmaooo attempting-startup thoughts:
+ some of us are "do if" people maybe we should be "do for" .... * thinks about any feasability in a do for loop lmao * 
+
+
+
+
+
