@@ -53,6 +53,9 @@ do if([
  // lmaooo attempting-startup thoughts:
  some of us are "do if" people maybe we should be "do for" .... * thinks about any feasability in a do for loop lmao * 
 
+LOLOLOLOLOL!! the Do-For Loop:
+JS 2d-Matrix. Create array of arrays and it will execute a coding-statement, per array, till for block met (maybe) lol. 
+
 
 
 
