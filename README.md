@@ -56,7 +56,4 @@ do if([
 LOLOLOLOLOL!! the Do-For Loop:
 JS 2d-Matrix. Create array of arrays and it will execute a coding-statement, per array, till for block met (maybe) lol. 
 
-
-
-
-
+// update: if it was modeled after the useEffect, a differentiating factor could be exportable/modularized useEffect()
