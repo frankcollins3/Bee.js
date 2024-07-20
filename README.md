@@ -50,6 +50,8 @@ they distinguish only by {cursor: pointer} considered an {.input} class but it h
 #starsHeaderUnlockIcon:hover { cursor: pointer; }
 ```
 
+no :pseudo-class in Sass but can do @mixin
+noting nonfeasability of @mixin::pseudo
 ```
 class {
    {...otherClass}
