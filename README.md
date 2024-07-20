@@ -41,6 +41,15 @@ they distinguish only by {cursor: pointer} considered an {.input} class but it h
 }
 ```
 
+👍 spitballing but maybe allow pseudo-class in a code block:
+```
+#starsHeaderUnlockIcon {
+    height: 50px;
+    👍 :hover { cursor: pointer; } 
+}
+#starsHeaderUnlockIcon:hover { cursor: pointer; }
+```
+
 [non-opinionated-BLOB-accepting-native-global-state]
 // seeing redux play soundfiles but with a "non-serializable-data" error // non-breaking
 
