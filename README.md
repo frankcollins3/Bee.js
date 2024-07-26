@@ -75,3 +75,11 @@ LOLOLOLOLOL!! the Do-For Loop:
 JS 2d-Matrix. Create array of arrays and it will execute a coding-statement, per array, till for block met (maybe) lol. 
 
 // update: if it was modeled after the useEffect, a differentiating factor could be exportable/modularized useEffect()
+
+
+// if it's not redundant yet to say this is wall of spitballs here goes another:
+[chained_destructurin]
+// imagine chained destructuring which would shorthand, not shortchange, this below set of unfoldsome actions
+        const { commentFunctions, AWSfunctionsS3 } = useContentFunction()
+        const { S3functions } = AWSfunctionsS3
+        const { S3getFolderKeysThenSetBLOBSasState } = S3functions;
