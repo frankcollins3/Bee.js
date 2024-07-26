@@ -78,6 +78,7 @@ JS 2d-Matrix. Create array of arrays and it will execute a coding-statement, per
 
 
 // if it's not redundant yet to say this is wall of spitballs here goes another:
+Destructure.all() -> if nullSafety? && Promise.all() conceived life:
 [chained_destructurin]
 // imagine chained destructuring which would shorthand, not shortchange, this below set of unfoldsome actions
         const { commentFunctions, AWSfunctionsS3 } = useContentFunction()
